@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Pirate Places</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="first_val">You are already at the first location.</string>
+    <string name="last_val">You are already at the last location.</string>
+    <string name="place_beach">Wrightsville Beach</string>
+    <string name="people_couple">Jamie, Caleb</string>
+    <string name="place_library">Joyner Library</string>
+    <string name="people_classmates">Jamie, Sue, Mark, Lisa</string>
+    <string name="place_spa">East Coast Massage and Spa</string>
+    <string name="people_girls_day">Jamie, Mom, Michaela</string>
+    <string name="place_nails">La Vi Nails</string>
+    <string name="people_self">Jamie</string>
+    <string name="check_in_status">Not Checked In</string>
+    <string name="current_location">Current Location</string>
 </resources>
